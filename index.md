@@ -29,9 +29,9 @@ This is **bold**
 3. cse 20
 
 -----------------------------
-'inline code'
+`inline code`
 
-'''
+```
 # hello world
 print 'hello world'
-'''
+```
