@@ -1,5 +1,9 @@
 # lab 2
 ## lab 2
+# **Combo**
+# *Combo*
+> # **COMBO**
+### little header
 Hello!
 
 Anything you want.
