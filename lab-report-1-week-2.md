@@ -20,6 +20,7 @@ Hello incoming 15L students! My name is Jonathan and I will be showing you how t
 
 5. ### Setting an SSH Key
     Let's set up the SSH Key! On your personal computer type "ssh-keygen" then "(/Users/<user-name>/.ssh/id_rsa): /Users/<user-name>/.ssh/id_rsa" DO NOT PUT A PASSPHRASE. Simply press enter two times. Now log into the remote computer and in the remote computer's terminal type "mkdir .ssh" You should then log out and go to our personal computer's terminal and type "scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys" using appropriate account name and path. Now you should be able to log into the remote computer without having to type a password :)
+
     ![Image](image3.png)
 
 6. ### Optimizing Remote Running
