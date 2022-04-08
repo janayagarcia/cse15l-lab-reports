@@ -40,4 +40,4 @@ This is **bold**
 print 'hello world'
 ```
 # link for lab report 2
-[labreport2]()
+[labreport2](https://janayagarcia.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
