@@ -26,6 +26,8 @@ This is **bold**
 
 -----------------------------
 'inline code'
+
 '''
 # hello world
 print("hello world")
+'''
