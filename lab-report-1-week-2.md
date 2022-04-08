@@ -21,6 +21,7 @@ Hello incoming 15L students! My name is Jonathan and I will be showing you how t
 5. ### Setting an SSH Key
     Let's set up the SSH Key! On your personal computer type "ssh-keygen" then "(/Users/<user-name>/.ssh/id_rsa): /Users/<user-name>/.ssh/id_rsa" DO NOT PUT A PASSPHRASE. Simply press enter two times. Now log into the remote computer and in the remote computer's terminal type "mkdir .ssh" You should then log out and go to our personal computer's terminal and type "scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys" using appropriate account name and path. Now you should be able to log into the remote computer without having to type a password :)
     ![signintosshwithoutpw](image3.png)
+    test
 
 6. ### Optimizing Remote Running
     A neat little trick for making remote running faster and smoother is combining what you want to do into one line. For example in your personal computer's terminal type: ssh cs15lsp22abz@ieng6.ucsd "javac FILENAME.java; java FILENAME" This will compile and run your file. You can also use the up arrow to go to the last command you made on your computer.
