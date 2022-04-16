@@ -24,8 +24,8 @@ Hello incoming 15L students! My name is Jonathan and I will be showing you how t
     ![Image](image3.png)
 
 6. ### Optimizing Remote Running
-    A neat little trick for making remote running faster and smoother is combining what you want to do into one line. For example in your personal computer's terminal type `ssh cs15lsp22abz@ieng6.ucsd "javac FILENAME.java; java FILENAME` This will compile and run your file. You can also use the up arrow to go to the last command you made on your computer.
-    ![shortcuts](image2.png)
+    A neat little trick for making remote running faster and smoother is combining what you want to do into one line. For example in your personal computer's terminal type `ssh cs15lsp22abz@ieng6.ucsd "javac FILENAME.java; java FILENAME` This will compile and run your file. You can also use the up arrow to go to the last command you made on your computer. The screenshot below demonstrates me running one of the commands. What you see here is that from my own computer, I am going into the remote computer at ucsd. Then in the same line I am saying that as soon as I go into the remote computer I want the WhereAmI.java file to be compiled. Finally it should run. You see the results from the screenshot. You could do this with various commands.
+    ![shortcuts](imageimage.png)
 
     **HOPE THIS HELPED!**
 
