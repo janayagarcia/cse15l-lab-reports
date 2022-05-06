@@ -25,6 +25,7 @@ Here is what it looks like in my ieng6 account.
 ![keyInIeng6](keyInIeng6.png)
 
 Inside of this file I have my private key and it differs from my public key because my public key has `.pub`
+
 ![privatekey](privatekey.png)
 
 Here I commited a few files that were in my ieng6 account.
