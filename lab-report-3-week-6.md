@@ -33,7 +33,7 @@ Here I commited a few files that were in my ieng6 account.
 
 When I push these files they are added to a repository on github and you can see that with the link below.
 ![gitPush](gitPush.png)
-https://github.com/janayagarcia/labreport3test
+[repo where it was pushed](https://github.com/janayagarcia/labreport3test)
 
 
 ## 3. Copy Whole Directories With `scp -r`
