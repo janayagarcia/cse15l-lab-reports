@@ -7,7 +7,7 @@ Hello! My name is Jonathan Anaya Garcia and I will be demonstrating how I stream
 
 This is my `.ssh/config` file and I edited it through the terminal.
 ![configFile](configFile.png)
-![EdittingConfig(EdittingConfig.png)
+![EdittingConfig](EdittingConfig.png)
 
 Here I am logging into my ssh with my alias.
 ![LogInSSH](LogInSSH.png)
