@@ -45,4 +45,4 @@ In this image I am running the Junit tests for MarkdownParseTest.
 ![ranTest](ranTest.png)
 
 Here I do the same thing as the image above the only difference is that I am doing it all in one line.
-![allInOneLine](allInOneLine.png)
+![allInOneLine](OfficialAllInOneLine.png)
