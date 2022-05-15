@@ -29,7 +29,7 @@ Inside of this file I have my private key and it differs from my public key beca
 ![privatekey](privatekey.png)
 
 Here I commited a few files that were in my ieng6 account.
-![gitcommit](gitcommit.png)
+![gitcommit](fixcommmit.png)
 
 When I push these files they are added to a repository on github and you can see the commit with the link below.
 ![gitPush](fixpush.png)
