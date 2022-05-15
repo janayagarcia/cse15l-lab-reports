@@ -32,8 +32,8 @@ Here I commited a few files that were in my ieng6 account.
 ![gitcommit](gitcommit.png)
 
 When I push these files they are added to a repository on github and you can see the commit with the link below.
-![gitPush](gitPush.png)
-[commit link](https://github.com/janayagarcia/labreport3test/commit/4fdb6cc3f2b082560c61eb60a8abd8d50132e985)
+![gitPush](fixpush.png)
+[commit link](https://github.com/janayagarcia/testt/commit/9868654a07002ece10b26139343f59f1a9fbc0d2)
 
 
 ## 3. Copy Whole Directories With `scp -r`
