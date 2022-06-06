@@ -27,7 +27,7 @@ Their output:
 
 Junit:
 
-![link](theirjunit495.png)
+passed.
 
 
 The expected output was: [[foo(and(bar))]
