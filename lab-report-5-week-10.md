@@ -19,7 +19,7 @@ My output:
 
 Junit:
 
-![link](updatemy495.png)
+![link](updatemy4952.png)
 
 Their output:
 
