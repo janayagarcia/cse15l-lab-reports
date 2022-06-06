@@ -62,6 +62,10 @@ The expected output was: []
 
 For this I am choosing to describe the bug within the implemenation given to us. It has a simple fix. The bug is when there is space/characters between the closing bracket of a potential link it should disregard it as a proper link. This implemenation still uses the invalid link. I would fix this by adding another parameter to the findCloseParen method so that it is taking in nextCloseBracket in order to test if nextCloseBracket + 1 = openParen. If it does not equal then return -1 which makes it an invalid link.
 
+Here is where I add the parameter.
+
 ![link](theirchange1.png)
+
+Here is where I add the other if statement.
 
 ![link](theirchange2.png)
