@@ -30,7 +30,7 @@ Junit:
 passed.
 
 
-The expected output was: [[foo(and(bar))]
+The expected output was: [foo(and(bar))]
 
 My implementation is not correct because it looks for the first ending parenthesis when it should look for more just incase there is a parenthesis within the link itself. It should instead do another while loop where I have highlighted until it finds another opening bracket or it reaches the end of the file. Once one of these are met it should get the rightmost closing parenthesis.
 
